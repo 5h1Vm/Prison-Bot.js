@@ -1,0 +1,23 @@
+Goals for the bot
+- Able to create Role{ Prisoner, Prison Gaurd, Visitor(optional) }
+- Able to create channels through commands
+- Able to create voice-channels through commands
+- Mute commands, Soft Bans, perm ban, delete bulk messages from last 2 days.
+- Free time (optional), Once a day, Can be extended for premium users.(command to check free time). Controlled by Guards
+- Only Gaurds can control the bot.
+- Mongo.db for logs
+- premium logs
+- Prisons Puns, Death Row facts,
+- Website for managing
+- Recieving direct payment through qr-s
+- Timelimit for Normal Members for visting
+- Holiday if admin set's one
+- type of prisoners
+    - On Remand
+    - Convicted
+    - Death Row
+- Jail free Card/Role
+    - twist  Gaurd's jail free card lasts only 30 mins
+- Visitor Channel with Visitor timelimit..
+- Special Cell (more like auto channel  bot)
+- 
